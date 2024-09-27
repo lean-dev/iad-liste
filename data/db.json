@@ -1,0 +1,97 @@
+{
+  "lists": [
+    {
+      "id": "3f7f",
+      "title": "Treffen",
+      "email": "mail@lean-stack.de"
+    },
+    {
+      "id": "5cb1",
+      "title": "Klappt",
+      "email": "mail@egal.de"
+    },
+    {
+      "id": "1450",
+      "short": "sddfg",
+      "title": "dfgdfg",
+      "email": "mail@egal.de"
+    },
+    {
+      "id": "b302",
+      "title": "Ok",
+      "email": "Yup@egal"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "c2ba",
+      "wer": "Anna",
+      "was": "Cola",
+      "wieviele": "2",
+      "listId": "3f7f"
+    },
+    {
+      "wer": "Katrin",
+      "was": "Limoande",
+      "wieviele": "2",
+      "listId": "3f7f",
+      "id": "d2e7"
+    },
+    {
+      "wer": "Klaus",
+      "was": "Häppchen",
+      "wieviele": "2",
+      "listId": "3f7f",
+      "id": "08b2"
+    },
+    {
+      "id": "fe51",
+      "wer": "Kurt",
+      "was": "Bananensaft",
+      "wieviele": "2",
+      "listId": "3f7f"
+    },
+    {
+      "wer": "Micha",
+      "was": "Ki und Ba",
+      "wieviele": "2",
+      "listId": "3f7f",
+      "id": "54f1"
+    },
+    {
+      "wer": "Micha",
+      "was": "dem",
+      "wieviele": "1",
+      "listId": "5cb1",
+      "id": "f010"
+    },
+    {
+      "id": "ef2c",
+      "wer": "Klaus",
+      "was": "sdfsd",
+      "wieviele": "dfgfd",
+      "listId": "5cb1"
+    },
+    {
+      "wer": "Dupi",
+      "was": "Bier",
+      "wieviele": "xydfgsdfv",
+      "listId": "5cb1",
+      "id": "bec0"
+    },
+    {
+      "id": "2cc6",
+      "wer": "aaa",
+      "was": "ddd",
+      "wieviele": "dd",
+      "listId": "1450"
+    },
+    {
+      "id": "8674",
+      "wer": "Anna",
+      "was": "Cola",
+      "wieviele": "2",
+      "listId": "b302"
+    }
+  ]
+}
